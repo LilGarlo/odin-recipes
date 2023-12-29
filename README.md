@@ -1,1 +1,2 @@
 # odin-recipes
+This project will demonstrate my HTML knowledge by building a simple website that will consist of a main index page and have links to a few recipes. The website won't be pretty, but in future time may go over it again using CSS.
